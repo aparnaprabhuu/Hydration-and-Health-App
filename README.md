@@ -1,16 +1,20 @@
-# project_four
+# Hydration and Health App
 
-A new Flutter project.
+A comprehensive health app that helps you track your daily water intake and monitor various health metrics such as sleep, calorie consumption, and heart rate.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Water Intake Tracker**: Log and monitor your daily water consumption.
+- **Sleep Tracker**: Record and analyze your sleep patterns.
+- **Calorie Tracker**: Track your daily calorie intake and expenditure.
+- **Heart Rate Monitor**: Keep track of your heart rate readings.
+- **Comprehensive Dashboard**: View all your health metrics in one place.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p >
+  <img src="assets/screenshots/w1.jpg" alt="Screenshot 1" width="230"/>
+  <img src="assets/screenshots/w2.jpg" alt="Screenshot 1" width="230"/>
+  <img src="assets/screenshots/w3.jpg" alt="Screenshot 1" width="230"/>
+  <img src="assets/screenshots/w4.jpg" alt="Screenshot 1" width="230"/>
+</p>
